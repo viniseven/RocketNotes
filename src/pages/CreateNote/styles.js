@@ -42,8 +42,9 @@ export const Form = styled.form`
 
     .tags {
         display: grid;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 100% 50%;
         gap: 0.8rem;
+
     }
 
 `;
